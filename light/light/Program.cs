@@ -15,7 +15,8 @@ namespace light
         public void createRatedPower(int temp) { ratedPower = temp; }
         public int readRatedVoltage() { return ratedVoltage; }
         public void createRatedVoltage(int temp) { ratedVoltage = temp; }
-
+        public void TurnOn() { isTurn = true; }
+        public void TurnOff() { isTurn = false; }
 
 
     };
