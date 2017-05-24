@@ -7,3 +7,12 @@ c:\users\илья\documents\visual studio 2015\Projects\light\light\obj\Debug\li
 c:\users\илья\documents\visual studio 2015\Projects\light\light\obj\Debug\light.csproj.GenerateResource.Cache
 c:\users\илья\documents\visual studio 2015\Projects\light\light\obj\Debug\light.exe
 c:\users\илья\documents\visual studio 2015\Projects\light\light\obj\Debug\light.pdb
+C:\Users\Илья\Documents\GitHub\oop\light\light\bin\Debug\light.exe.config
+C:\Users\Илья\Documents\GitHub\oop\light\light\obj\Debug\light.exe
+C:\Users\Илья\Documents\GitHub\oop\light\light\obj\Debug\light.pdb
+C:\Users\Илья\Documents\GitHub\oop\light\light\bin\Debug\light.exe
+C:\Users\Илья\Documents\GitHub\oop\light\light\bin\Debug\light.pdb
+C:\Users\Илья\Documents\GitHub\oop\light\light\obj\Debug\light.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\GitHub\oop\light\light\obj\Debug\light.Form1.resources
+C:\Users\Илья\Documents\GitHub\oop\light\light\obj\Debug\light.Properties.Resources.resources
+C:\Users\Илья\Documents\GitHub\oop\light\light\obj\Debug\light.csproj.GenerateResource.Cache

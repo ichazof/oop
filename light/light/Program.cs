@@ -10,6 +10,7 @@ namespace light
     {
         private int ratedPower=0;
         private int ratedVoltage=0;
+        private bool isTurn=false;
         public int readRatedPower() { return ratedPower; }
         public void createRatedPower(int temp) { ratedPower = temp; }
         public int readRatedVoltage() { return ratedVoltage; }
